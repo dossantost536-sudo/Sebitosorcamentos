@@ -1,0 +1,6 @@
+{
+  "name": "Sebito Festas",
+  "description": "Monte seu orçamento de festas e eventos com facilidade e envie diretamente pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
